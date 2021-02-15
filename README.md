@@ -1,13 +1,14 @@
 Hello_world
 
-#Test Project
+Test Project
 
 Built With
-# HTML and CSS
-# No Frameworks
-# Introducing Linters
+
+HTML and CSS
+No Frameworks
+Introducing Linters
  
-# Live demo
+Live demo
 
 Authors
 
