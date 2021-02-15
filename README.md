@@ -1,16 +1,15 @@
-# Hello_world
+Hello_world
 
-Test Project
+#Test Project
 
-# Built With
-HTML and CSS
-No Frameworks
-Introducing Linters
-
+Built With
+# HTML and CSS
+# No Frameworks
+# Introducing Linters
+ 
 # Live demo
-#None
 
-# Authors
+Authors
 
 NSABIMANA Emmanuel
 Github acc: @githubemmyn5600
