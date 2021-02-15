@@ -12,10 +12,16 @@ Built With
 Authors
 
 NSABIMANA Emmanuel
-Github acc: @githubemmyn5600
+- GitHub: [@emmyn5600](https://github.com/Emmyn5600)
+- Twitter: [@NSABIMA62253884] (https://twitter.com/NSABIMA62253884)
+- LinkedIn: [@nsabimana-emmanuel-4276091b2](https://www.linkedin.com/in/nsabimana-emmanuel-4276091b2/)
+
 
 Joshua Ivie
-Github acc: @githubjoshuaivie
+- GitHub: [@joshuaivie](https://github.com/joshuaivie)
+- Twitter: [@joshuaivie_](https://twitter.com/joshuaivie_)
+- LinkedIn: [joshuaivie](https://linkedin.com/in/joshuaivie)
+
 
 # Contributing
 
