@@ -8,5 +8,24 @@
 </head>
 <body>
     <header class="head">Hello world!</header>
+    <div class="form">
+        <fieldset class="design">
+            <legend>Login</legend>
+            <form action="/contact.html" method="POST">
+                <label for="fname">
+                    Names:
+                    <input type="text" name="Names" class="names" id="fname" required>
+                </label>
+                <label for="email">
+                    E-mail:
+                    <input type="email" name="E-mail" class="email" id="email" required>
+                </label>
+                <label for="message">
+                    <textarea name="Message" class="message" cols="30" rows="10" id="message" required></textarea>
+                </label>
+                <input type="submit" value="Send Message" class="button">
+            </form>
+          </fieldset>
+    </div>
 </body>
 </html>
